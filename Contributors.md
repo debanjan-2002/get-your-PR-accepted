@@ -6,6 +6,7 @@
 - [Sudeep Gangwar](https://github.com/rex2828)
 - [Narayan Soni](https://github.com/narayan954)
 - [Shravya](https://github.com/ShravyaMallya)
+- [Debanjan Poddar](https://github.com/debanjan-2002)
 - [Ishita Karandikar](https://github.com/ishitakarandikar)
 - [Romil](https://github.com/romiljain23)
 - [Abhijeet Anand](https://github.com/Abhijeet-Anand-01)
@@ -28,4 +29,3 @@
 - [Bhavana Kumari](https://github.com/Bhavanak021)
 - [Aryamaan Thakur](https://github.com/aryamaanthakur)
 - [Rudraneel Dutta](https://github.com/rudraneel18)
-- [Debanjan Poddar](https://github.com/debanjan-2002)
